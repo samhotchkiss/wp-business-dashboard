@@ -1,4 +1,4 @@
 wp-business-dashboard
 =====================
 
-A dashboard for managing your creative agency.  Powered by WordPress!
+A dashboard for managing your business.  Powered by WordPress!
